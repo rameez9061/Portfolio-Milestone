@@ -14,12 +14,12 @@ export default function page(){
             <div className="content-down w-full bg-white py-10 ">
             <div className="max-w-6xl mx-auto text-center px-4 sm:px-6 lg:px-8">
   {/* Introduction Section */}
-  <h1 className="text-4xl font-bold text-gray-800 mb-4 text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
+  <h1 className="text-4xl font-bold text-gray-800 mb-4  sm:text-3xl md:text-4xl lg:text-5xl">
     Introduction
   </h1>
   <p className="text-lg text-gray-600">
-    Hi, I'm Rameez, a passionate web developer who loves building interactive and user-friendly web applications.
-    My focus is on creating solutions that are both efficient and intuitive. I’m always learning and improving my
+    Hi Im Rameez a passionate web developer who loves building interactive and user-friendly web applications.
+    My focus is on creating solutions that are both efficient and intuitive. Im always learning and improving my
     skills to stay ahead in the ever-changing tech world.
   </p>
 </div>
